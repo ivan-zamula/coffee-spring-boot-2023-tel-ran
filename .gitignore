@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local editor settings and generated output
+.idea/
+out/
+*.class
+node_modules/
+.DS_Store
